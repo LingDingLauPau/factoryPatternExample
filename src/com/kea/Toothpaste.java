@@ -7,7 +7,7 @@ public class Toothpaste implements com.kea.Item {
     private int price = 20;
 
     @Override
-    public void addToCart() {
+    public void addToCard() {
 
         System.out.println("The item " + name + " was added to the cart, with the cost of: " + price + ",- DKK");
 
