@@ -7,7 +7,7 @@ public class AloeVera implements Item {
     private int price = 45;
 
     @Override
-    public void addToCart() {
+    public void addToCard() {
 
         System.out.println("The item " + name + " was added to the cart, with the cost of: " + price + ",- DKK");
 
