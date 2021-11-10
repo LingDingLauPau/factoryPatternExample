@@ -14,7 +14,7 @@ public class Main {
     Item item2 = itemFactory.getItem("Mango");
     item2.addToCart();
 
-    //create an object of Mango and call its addToCart method.
+    //create an object of Toothpaste and call its addToCart method.
     Item item3 = itemFactory.getItem("TOoTHpASTE");
     item3.addToCart();
 
